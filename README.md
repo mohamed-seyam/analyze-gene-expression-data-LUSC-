@@ -32,7 +32,7 @@ The Project Files are in this manner
 ## Our Team
 
 * Ramadan Ibrahem - [![linkedin-shield]](https://www.linkedin.com/in/ramadanibrahem/)
-* Muhammad Seyam - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-seyam-91b3b81b7/)
+* Mohammad Seyam - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-seyam-91b3b81b7/)
 * Muhammad Abd-ElAziz - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-ahmed-abdelaziz)
 * Haithem Emad - [![linkedin-shield]](https://www.linkedin.com/in/haitham-emad-5145b3177/)
 
